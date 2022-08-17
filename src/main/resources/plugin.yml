@@ -1,0 +1,9 @@
+name: HandFireworks
+version: '0.0.1'
+main: love.chihuyu.handfireworks.HandFireworks
+api-version: 1.19
+authors: [ Hirosuke ]
+description: Add summer vacation experience for you
+permissions:
+  handfireworks.use:
+    default: true
